@@ -1,6 +1,6 @@
 # <p align="center"> I'm Saksaran Akramethawong </p>
 
-
+<p> Currently, I'm learning about SQL and basic UX/UI.</p>
 ✉️ [vinzent.vz@gmail.com](mailto:vinzent.vz@gmail.com)
 
 ### Skills
