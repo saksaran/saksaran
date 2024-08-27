@@ -1,5 +1,5 @@
 # <p align="center"> I'm Saksaran Akramethawong </p>
-<hr>
+
 
 * ✉️ [vinzent.vz@gmail.com](mailto:vinzent.vz@gmail.com)
 
