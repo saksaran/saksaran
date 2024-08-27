@@ -1,7 +1,7 @@
 # <p align="center"> I'm Saksaran Akramethawong </p>
 
 
-* ✉️ [vinzent.vz@gmail.com](mailto:vinzent.vz@gmail.com)
+✉️ [vinzent.vz@gmail.com](mailto:vinzent.vz@gmail.com)
 
 ### Skills
 
