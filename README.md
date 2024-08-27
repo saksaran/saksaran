@@ -1,7 +1,7 @@
 # <p align="center"> I'm Saksaran Akramethawong </p>
 
-<p> Currently, I'm learning about SQL and basic UX/UI.</p>
-✉️ [vinzent.vz@gmail.com](mailto:vinzent.vz@gmail.com)
+* Currently, I'm learning about Java, Vue.js and SQL.</p>
+✉️ Contract [vinzent.vz@gmail.com](mailto:vinzent.vz@gmail.com)
 
 ### Skills
 
