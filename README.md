@@ -62,13 +62,13 @@
 
 ### 📌 Pinned Projects
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://github.com/YOUR_FRIEND_USERNAME/PROJECT_NAME">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_FRIEND_USERNAME&repo=PROJECT_NAME&theme=radical&bg_color=0D1117&title_color=58A6FF&hide_border=true" alt="Coordinated Project" />
   </a>
 </div>
 
-<br>
+<br> -->
 
 #### 🎟️ [EventHub - Event Management System](https://github.com/saksaran/YOUR_REPO_NAME)
 *Full-Stack Application* | **Next.js, Spring Boot, Oracle DB, Docker**
