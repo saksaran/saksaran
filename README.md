@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saksaran Akramethawong</h1>
+<h1 align="center">Hi 👋, I'm Saksaran</h1>
 <h3 align="center">A highly motivated Java Developer & Full-Stack Engineer from Thailand 🇹🇭</h3>
 
 <p align="center">
