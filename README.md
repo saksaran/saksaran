@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saksaran&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Saksaran's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saksaran&show_icons=true&theme=radical&count_private=true" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksaran&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="Saksaran's GitHub Streak" height="165" />
 </div>
 
