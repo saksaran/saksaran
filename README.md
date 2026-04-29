@@ -48,7 +48,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saksaran&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saksaran&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" alt="Saksaran's GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksaran&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="Saksaran's GitHub Streak" height="165" />
 </div>
 
@@ -62,6 +62,14 @@
 
 ### 📌 Pinned Projects
 
+<div align="left">
+  <a href="https://github.com/YOUR_FRIEND_USERNAME/PROJECT_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_FRIEND_USERNAME&repo=PROJECT_NAME&theme=radical&bg_color=0D1117&title_color=58A6FF&hide_border=true" alt="Coordinated Project" />
+  </a>
+</div>
+
+<br>
+
 #### 🎟️ [EventHub - Event Management System](https://github.com/saksaran/YOUR_REPO_NAME)
 *Full-Stack Application* | **Next.js, Spring Boot, Oracle DB, Docker**
 > A high-performance platform featuring QR Code check-ins, automated email systems, and an AI-driven analytics dashboard. Engineered with layered architecture and strict resource-level access control.
@@ -72,8 +80,8 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a> -->
 </p>
